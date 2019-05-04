@@ -1,0 +1,62 @@
+
+ body{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 100%;
+    background-image: url(nordwood-themes-1514889-unsplash.jpg);
+    background-size: cover;
+ }
+
+.navigation {
+    
+   overflow: hidden;
+  }
+
+  .navigation a {
+    /* float: right; */
+    text-align: right;
+    /* display: inline; */
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .navigation ul{
+      float: right;
+  }
+
+   /* Change the link color to #111 (black) on hover */
+   a:hover {
+    color: grey;
+  }
+
+  .content{
+      text-align: center;
+      
+      
+  }
+ .greeting{
+    margin-top: 150px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    background-color: darkgray;
+    opacity: 0.5;
+    border-width: 500px;
+    
+ }
+
+ h1{
+     font-size: 350%;
+ }
+
+ p{
+     font-size: 150%;
+     font-family: 'Quicksand', sans-serif;
+ }
+
+.visible{
+     color:lightgray;
+
+ }
+ 
